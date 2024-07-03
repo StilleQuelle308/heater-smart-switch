@@ -1,2 +1,2 @@
 # heater-smart-switch
-This project is about a combination of MQTT based home minotoring and Node-Red flow that controls the Shelly smart switch of a heater.
+This project is about a combination of MQTT-based home monitoring and a Node-Red Flow, which controls the Shelly Smart Switch of a heating system. The automation saves the 12W standby consumption of the heating system in summer.
